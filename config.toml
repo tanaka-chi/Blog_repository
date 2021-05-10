@@ -1,3 +1,6 @@
 baseURL = "http://example.org/"
+theme = "Iris"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "こじんぶろぐ"
+canonifyurls = true
+
